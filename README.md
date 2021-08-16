@@ -2,6 +2,6 @@
 
 ## Git repo example
 
-Intergration change
+Intergration changes
 
 
